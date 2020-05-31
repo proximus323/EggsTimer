@@ -1,7 +1,6 @@
-# EggsTimer
+# eggs_timer
 
-App in Flutter (Dart) to get perfect boiled Eggs. 
-YamiCode
+A new Flutter project.
 
 ## Getting Started
 
